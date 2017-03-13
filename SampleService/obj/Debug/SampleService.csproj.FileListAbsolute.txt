@@ -1,0 +1,7 @@
+c:\users\scezeala\documents\visual studio 2013\Projects\SampleService\SampleService\bin\Debug\SampleService.exe.config
+c:\users\scezeala\documents\visual studio 2013\Projects\SampleService\SampleService\bin\Debug\SampleService.exe
+c:\users\scezeala\documents\visual studio 2013\Projects\SampleService\SampleService\bin\Debug\SampleService.pdb
+c:\users\scezeala\documents\visual studio 2013\Projects\SampleService\SampleService\obj\Debug\SampleService.ProjectInstaller.resources
+c:\users\scezeala\documents\visual studio 2013\Projects\SampleService\SampleService\obj\Debug\SampleService.csproj.GenerateResource.Cache
+c:\users\scezeala\documents\visual studio 2013\Projects\SampleService\SampleService\obj\Debug\SampleService.exe
+c:\users\scezeala\documents\visual studio 2013\Projects\SampleService\SampleService\obj\Debug\SampleService.pdb
